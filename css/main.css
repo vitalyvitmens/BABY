@@ -39,7 +39,7 @@ html {
   will-change: transform;
 }
 .slider__item {
-  max-height: 75vh;
+  max-height: 65vh;
   overflow: hidden;
   cursor: pointer;
   transition: transform var(--transition), box-shadow var(--transition);
